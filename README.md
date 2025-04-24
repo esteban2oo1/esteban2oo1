@@ -2,23 +2,64 @@
 
 # ¡Hola, soy Esteban2oo1! 👋
 
-## Desarrollo de Software 💻
+## 👨‍💻 Desarrollador de Software | Técnico en Sistemas | Estudiante de Ingeniería en Sistemas
 
-🎓 Actualmente, estoy en el último semestre de mi tecnología en desarrollo de software y estoy emocionado por lo que está por venir en mi carrera. Me apasiona el mundo de la programación y el desarrollo de software.
+🎓 Actualmente estoy finalizando mi carrera como **Ingeniero en Sistemas** y soy egresado como **Tecnólogo en Desarrollo de Software** del Instituto Tecnológico del Putumayo.  
+💡 Apasionado por la programación, el aprendizaje constante y el desarrollo de soluciones prácticas.
 
-### Sobre mí:
+---
 
-- 🌍 Vivo en Mocoa, Colombia.
-- ✉️ Puedes contactarme en [jhonjosa2021@itp.edu.c](mailto:jhonjosa2021@itp.edu.co).
-- 🧠 En este momento, estoy enfocado en aprender Python.
-- 🤝 Siempre estoy abierto a colaborar en proyectos interesantes.
+### 🌍 Sobre mí
 
-### Mis Habilidades:
+- 📍 Vivo en **Mocoa, Putumayo - Colombia**
+- ✉️ Puedes contactarme en: [jhonjosa2021@itp.edu.co](mailto:jhonjosa2021@itp.edu.co)
+- 🔭 En este momento, me encuentro aprendiendo **Python** y profundizando en backend con **Node.js**
+- 🤝 Estoy abierto a colaborar en proyectos de desarrollo web, software educativo, automatización y más.
 
-- 👨‍💻 Desarrollo de software y programación.
-- 📊 Análisis de datos.
-- 🌐 Desarrollo web.
-- 🚀 Resolución de problemas.
-- 💼 Experiencia en proyectos en GitHub.
+---
 
-¡Estoy entusiasmado por seguir creciendo como desarrollador y explorar nuevas oportunidades en el mundo del desarrollo de software! Si compartes mi pasión, ¡conéctate conmigo y trabajemos juntos en proyectos asombrosos! 💪🌟
+### 💼 Formación Académica
+
+- 🎓 **Ingeniería en Sistemas** – En curso, último año  
+- 🧑‍💻 **Tecnólogo en Desarrollo de Software** – ITP, 2024  
+- 🧰 **Técnico en Sistemas** – SENA, 2018  
+- 📈 **Técnico Empresarial** _ fray placido, 2018
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** JavaScript(regular) HTML5, SQL, Python (aprendiendo)
+- **Backend:** Node.js, Express
+- **Bases de Datos:** MySQL
+- **Herramientas:** Git, GitHub, Postman, Visual Studio Code
+- **Otras habilidades:** Análisis de datos, modelado de bases de datos, resolución de problemas
+
+---
+
+### 📈 Experiencia Destacada
+
+- 👨‍💻 Participación en proyectos internos de desarrollo de software en el Instituto Tecnológico del Putumayo
+- 🛠️ Experiencia como **auxiliar en sistemas** en soporte técnico (hardware/software/redes)
+- 💻 Contribuciones en GitHub a proyectos educativos y personales
+
+---
+
+### 🌟 ¿Por qué trabajar conmigo?
+
+- 🤝 Trabajo en equipo y colaboración
+- 🚀 Compromiso con el aprendizaje y mejora continua
+- 💬 Comunicación efectiva
+- 🧠 Enfoque analítico para resolver desafíos técnicos
+
+---
+
+### 🚀 ¡Conectemos!
+
+Si compartes mi pasión por la tecnología y el desarrollo, ¡hablemos!  
+Estoy listo para colaborar, aprender y contribuir en proyectos innovadores.  
+
+
+---
+
+> *“El software es una gran combinación entre arte e ingeniería.” – Bill Gates*
