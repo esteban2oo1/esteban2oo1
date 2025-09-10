@@ -59,5 +59,5 @@ Software project to digitize and manage an institutional herbarium:
 ---
 
 ## 📫 Contact
-- **Email:** jhonestebanjosaquinchoa@gmail.com  
+- **Email:** estebanjosa81@gmail.com  
 - **GitHub:** [github.com/esteban2oo1](https://github.com/esteban2oo1)  
